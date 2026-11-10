@@ -34,3 +34,16 @@
 - Preise mit Datum versehen, keine erfundenen Specs/Benchmarks/Ergebnisse.
 - Alle Dateien auf neuestem Stand abrufen, bevor sie überschrieben werden.
 - Nutzer darf nur selbst über Kauf/Verkäuferkontakt entscheiden; keine automatische Kontaktaufnahme.
+
+
+## 2026-11-10 – Nutzer meldet drei neue Angebote als gelöscht; Berlin als bevorzugter Standort
+- Nutzer weist explizit darauf hin, dass **die zuletzt vorgeschlagenen Schenker KEY 15, ThinkPad P16 Gen1 und XMG Neo 15 M21 nicht mehr verfügbar/gelöscht sind**. Der Suchindex kann dennoch alte Einträge anzeigen. Diese drei nicht erneut empfehlen.
+- **Berlin möglichst mit persönlicher Abholung** ist ab jetzt ein primäres Kriterium.
+- **Nur Business/KI/Entwicklung, kein Gaming** (aus vorherigem Turn ausdrücklich bestätigt).
+- Am 10.11.2026 bei Abruf noch sichtbare **neue** Anzeigen:
+  1. HP Victus 16, Hellersdorf, Ryzen 7 7840HS, RTX4060 8GB, 32 GB/1TB, **850 € Festpreis**.
+  2. Gigabyte AORUS 15, Prenzlauer Berg, i7-13620H, RTX4060 8GB, 32GB/2TB, **869 € VB**.
+  3. Gigabyte AERO 16 YE5, Reinickendorf, i9-12900H, RTX3080Ti **16GB VRAM**, 32GB/2TB, **1.299 € VB** – außerhalb des abgeleiteten ~1.000–1.200-€-Korridors, nur bei erfolgreicher Verhandlung.
+- Alle Anzeigen, konkrete URLs, Abrufstatus und geprüfte Risiken in **BERLIN-ANGEBOTE-2026-11-10.md**.
+- Aus Sicherheitsgründen **nicht als Top-Empfehlung**: zwei verdächtig ähnliche HP Victus RTX4070-Angebote unter unterschiedlichen Accounts; Acer Predator Händler mit Akku nur 57,5 % und ungarischer Tastatur; ASUS TUF mit problematischer Versand-Zahlungspräferenz (nur Abholung bar).
+- **Nichts gekauft, kein Verkäufer kontaktiert.** Lokale Verfügbarkeit kann sich schnell ändern, Anzeigen bei Nutzer stets erneut ansehen.
