@@ -1,6 +1,6 @@
 # Windows-Laptop als Ergänzung zum MacBook – Kaufentscheidung
 
-**Status:** Anforderungen erfasst; drei Favoriten noch nicht eingetragen. **Stand:** 10.11.2026.  
+**Status:** Drei Favoriten erfasst, technische Spezifikationen und Preisumfeld geprüft; **keine Kaufentscheidung**. **Stand:** 10.11.2026.  
 **Ziel:** Einen Windows-Laptop mit guter Preis-Leistung finden, der den bestehenden Mac ergänzt, insbesondere bei paralleler Entwicklungsarbeit und **lokaler KI**. Es soll kein Kauf ausgelöst werden.
 
 > **Hinweis für neue Chats:** Dieses Repository ist die zentrale, fortlaufende Projektakte. Zuerst README.md, ANFORDERUNGEN.md, VERGLEICH.md und KANDIDATEN.md lesen. Bestehende Entscheidungen nutzen; keine bereits beantworteten Fragen wiederholen. Neue Modelle, Preise, Tests und Beschlüsse hier dokumentieren. Nicht belegte Daten als „unbekannt“ markieren.
@@ -49,8 +49,8 @@
 ## Projektdateien
 
 - [ANFORDERUNGEN.md](ANFORDERUNGEN.md) – Ziele, Muss-Kriterien, Wunschmerkmale, Prüfungen.
-- [VERGLEICH.md](VERGLEICH.md) – Bewertungssystem und Vergleichsregeln.
-- [KANDIDATEN.md](KANDIDATEN.md) – drei Favoriten (der Nutzer teilt sie erst noch mit).
+- [VERGLEICH.md](VERGLEICH.md) – Bewertungssystem, **vorläufiges Ranking**, Verhandlungsheuristiken und Quellen.
+- [KANDIDATEN.md](KANDIDATEN.md) – **alle drei konkreten Angebote**, Daten, Quellen, Preise, wichtige Unstimmigkeiten und Besichtigung-Checkliste.
 - [ENTSCHEIDUNGEN.md](ENTSCHEIDUNGEN.md) – Verlauf, offene Punkte und Beschlüsse.
 
 ## Relevante offizielle Quellen (Stand der Erstaufnahme)
@@ -60,4 +60,4 @@
 - Docker Desktop mit WSL2: https://docs.docker.com/desktop/features/wsl
 - Docker Desktop Installation/Anforderungen: https://docs.docker.com/desktop/setup/install/windows-install/
 
-**Nächster Schritt:** Drei konkrete Laptop-Favoriten (Modell/Link/Screenshot mit Preis und Ausstattung) entgegennehmen, Daten verifizieren, transparent vergleichen und eine Kauf- bzw. Verhandlungsempfehlung formulieren. Budget notieren, sobald bekannt.
+**Aktueller Stand und nächster Schritt:** Nutzer hat drei Favoriten gezeigt: ASUS ROG Strix G17 G713PV-LL145W (1.100 € VB privat), ASUS G713PV-HX058W (1.000 € VB privat), MSI Stealth A16 AI+ A3HVEG-298NN (999 € neu). **ASUS 1 ist bedingt führend**, bietet 16-Kern-CPU und laut SKU WQHD 240 Hz; aber die Anzeige behauptet abweichend FHD 144 Hz. **Vor Kauf exakt Modellnummer und Bildschirm verifizieren, Akkuzustand/SSD/Dauerlast prüfen und Preis verhandeln**. Vergleich und Prüfplan stehen in KANDIDATEN.md, VERGLEICH.md und ENTSCHEIDUNGEN.md. Budget notieren, sobald bekannt. Noch kein Kauf und kein Verkäuferkontakt.
