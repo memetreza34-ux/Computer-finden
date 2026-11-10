@@ -1,6 +1,6 @@
 # Windows-Laptop als Ergänzung zum MacBook – Kaufentscheidung
 
-**Status:** Nutzer meldet sämtliche zuletzt empfohlenen Berliner Kleinanzeigen als ausverkauft; neue Händlerrecherche **notebooksbilliger.de** dokumentiert; **keine Kaufentscheidung**. **Stand:** 10.11.2026.  
+**Status:** **Feste Gesamtkaufgrenze 1.100€** (inklusive RAM-Aufrüstung), preiswerter 16GB-SO-DIMM-Einbau möglich; **kein Kauf beschlossen**. **Stand:** 10.11.2026.  
 **Ziel:** Einen Windows-Laptop mit guter Preis-Leistung finden, der den bestehenden Mac ergänzt, insbesondere bei paralleler Entwicklungsarbeit und **lokaler KI**. Es soll kein Kauf ausgelöst werden.
 
 > **Hinweis für neue Chats:** Dieses Repository ist die zentrale, fortlaufende Projektakte. Zuerst README.md, ANFORDERUNGEN.md, VERGLEICH.md und KANDIDATEN.md lesen. Bestehende Entscheidungen nutzen; keine bereits beantworteten Fragen wiederholen. Neue Modelle, Preise, Tests und Beschlüsse hier dokumentieren. Nicht belegte Daten als „unbekannt“ markieren.
@@ -52,6 +52,7 @@
 - [VERGLEICH.md](VERGLEICH.md) – Bewertungssystem, **vorläufiges Ranking**, Verhandlungsheuristiken und Quellen.
 - [KANDIDATEN.md](KANDIDATEN.md) – **alle drei konkreten Angebote**, Daten, Quellen, Preise, wichtige Unstimmigkeiten und Besichtigung-Checkliste.
 - [ENTSCHEIDUNGEN.md](ENTSCHEIDUNGEN.md) – Verlauf, offene Punkte und Beschlüsse.
+- [BUDGET-1100-RAM-GPU-2026-11-10.md](BUDGET-1100-RAM-GPU-2026-11-10.md) – **NEUESTE UND VERBINDLICHE Einschränkung: max. 1100€ insgesamt**, aufrüstbarer Arbeitsspeicher, nicht aufrüstbare NVIDIA-GPU, kaufbarer MSI RTX5060-Deal.
 - [NOTEBOOKSBILLIGER-2026-11-10.md](NOTEBOOKSBILLIGER-2026-11-10.md) – **NEUSTER STAND**, konkrete NBB-Angebote/Verfügbarkeit, 32-GB-RAM-Gesamtkosten und Shop-Links.
 - [MARKTRECHERCHE-2026-11-10.md](MARKTRECHERCHE-2026-11-10.md) – historische erweiterte Marktanalyse (**drei dort vorgeschlagene Angebote inzwischen vom Nutzer als gelöscht gemeldet**).
 - [BERLIN-ANGEBOTE-2026-11-10.md](BERLIN-ANGEBOTE-2026-11-10.md) – **NEUE aktive Berliner Shortlist**, Preise, Verkäufer-Risiken und direkte geprüfte Anzeigenlinks.
@@ -72,3 +73,7 @@
 
 ## AKTUELLSTER STATUS vom 10.11.2026 – notebooksbilliger.de
 Der Nutzer meldet **auch die letzte Berliner Shortlist (HP Victus 16, GIGABYTE AORUS 15, GIGABYTE AERO 16 der Privatangebote)** als bereits verkauft. Nicht erneut empfehlen. Jetzt vorerst **notebooksbilliger.de** statt Kleinanzeigen priorisieren. Dort gefunden: GIGABYTE GAMING A16 3VHK3DE894SH, Ryzen 7 260/RTX5060 8GB/16GB RAM/1TB für **1.099€ neu, sofort ab Lager**. **Wichtig: nur 16GB RAM ab Werk, damit nicht auftragskonform.** NBB Crucial DDR5-5600 16GB SO-DIMM **299€** → zusammen 1.398€ + Versand/Einbau. Ab Werk 32GB: GIGABYTE AERO X16 RTX5060 8GB/32GB/1TB **1.599€**, GIGABYTE A18 RTX5060 8GB/32GB/1TB **1.599€**, beide online sofort lagernd. Rund 1.000–1.200€ konnte kein ausreichend starker **sofort verfügbarer 32GB/RTX-Laptop** bei NBB nachgewiesen werden. **Keine Kaufempfehlung über Preisziel ohne Nutzerzustimmung, keine Bestellung.** Details: NOTEBOOKSBILLIGER-2026-11-10.md.
+
+
+## WICHTIGSTE NEUE VORGABE vom 10.11.2026 – Maximalpreis 1.100 € inklusive RAM
+Der Nutzer will **maximal 1.100€ für den gesamten Laptop inklusive nachträglicher RAM-Aufrüstung** ausgeben. Er hält einen **passenden 16GB-SO-DIMM für ~70€ via eBay** für möglich und kann RAM selbst einbauen. Daher werden Laptops mit **16GB ab Werk, 1×16GB + freiem SO-DIMM**, und einer **ab Werk guten NVIDIA-GPU mit >=8GB VRAM** in die Suche aufgenommen. **GPU/VRAM können bei modernen Laptops nicht intern nachgerüstet werden**; externe eGPU nur mit spezieller Schnittstelle und Zusatzkosten. Der aktuell geprüfte **MSI Cyborg 15 B13WFKG-827** mit i5-13420H/RTX5060 8GB/16GB (1×16)/512GB/Win11 kostet **949€ neu** bei MediaMarkt; **bei hypothetischem passenden 70€ RAM Modul wären es 1.019€**. Caveats: RTX5060 nur 55W, nur 1 M.2-Slot, keine Thunderbolt/USB4-eGPU; noch keine Bestellung. GIGABYTE A16 neu 1.099€ +70€ **nicht** budgetkonform; HP Omen FreeDOS 999€ 2×8GB RAM **nicht** durch einfaches +16GB-Modul auf 32GB aufrüstbar. Vollständige Prüfung: [BUDGET-1100-RAM-GPU-2026-11-10.md](BUDGET-1100-RAM-GPU-2026-11-10.md).
