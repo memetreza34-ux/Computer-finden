@@ -57,3 +57,12 @@
 - **Ab Werk 32GB / 1TB / RTX5060 8GB:** GIGABYTE **AERO X16 1VH93DEC64AH** und **GAMING A18 3VHK3DEC64SH** bei NBB je **1.599€ + Versand**, online laut Detailseiten lagernd, jedoch **über dem ursprünglichen Suchkorridor**.
 - **Nicht bewiesen:** kompletter, sofort verfügbarer 32GB/RAM/RTX-Laptop um 1.000–1.200€ bei diesem Händler. Erst Preis-Leistung und Budget berücksichtigen; keine Bestellung, kein Kauf.
 - Links, Daten, Quellen, Ausschlüsse: **NOTEBOOKSBILLIGER-2026-11-10.md**. Berliner Store-Abholung nicht gesondert nachgewiesen (Online-Lager ist nicht Filialbestand).
+
+
+## 2026-11-10 – Feste 1.100€-Gesamtgrenze und RAM-GPU-Frage
+- **Hartes Gesamtbudget höchstens 1.100€ inkl. geplanter RAM-Erweiterung** (nicht 1.100€ + RAM); vorherige 1.599€-Modelle und 1.099€-GIGABYTE A16 mit zusätzlich 70€ RAM fallen damit heraus.
+- RAM-Aufrüstung akzeptiert: **16GB DDR5 SO-DIMM zusätzlich für ca. 70€ über eBay** vom Nutzer als machbarer Zielwert genannt, konkrete Sofortkauf-Verfügbarkeit und Kompatibilität noch prüfen. Bevorzugt 1×16GB ab Werk + freier Steckplatz.
+- **NVIDIA-GPU / VRAM bei modernen Laptops intern praktisch nicht nachrüstbar**; externe eGPU nur mit USB4/TB/OCuLink und Zusatzhardware, nicht in Zielbudget einplanen.
+- **Jetzt überprüfte konkrete Händleroption:** MSI Cyborg 15 B13WFKG-827, 949€ neu MediaMarkt, Intel i5-13420H, RTX5060 8GB (55W), 16GB DDR5 (1×16 + 1 frei, DDR5-5200), 512GB SSD, Win11 Home; **949+70=1.019€** unter Annahme kompatiblem 70€-Modul. Nachteile: i5 mittelmäßig, 55W GPU, 1 M.2-Slot, kein Thunderbolt/USB4. Nicht gekauft.
+- **Nicht als passende Alternative rechnen:** HP OMEN 15-gb0057ng 999€ FreeDOS mit **2×8GB RAM (kein freier Slot)**, daher für 32GB 2 neue Module plus Windows notwendig.
+- Quellen/Link/Detailvergleiche in **BUDGET-1100-RAM-GPU-2026-11-10.md**. Fortan **kein Modell über 1.100€ Gesamtkosten als Empfehlung** ohne explizite Änderung des Budgets.
