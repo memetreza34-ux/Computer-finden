@@ -47,3 +47,13 @@
 - Alle Anzeigen, konkrete URLs, Abrufstatus und geprüfte Risiken in **BERLIN-ANGEBOTE-2026-11-10.md**.
 - Aus Sicherheitsgründen **nicht als Top-Empfehlung**: zwei verdächtig ähnliche HP Victus RTX4070-Angebote unter unterschiedlichen Accounts; Acer Predator Händler mit Akku nur 57,5 % und ungarischer Tastatur; ASUS TUF mit problematischer Versand-Zahlungspräferenz (nur Abholung bar).
 - **Nichts gekauft, kein Verkäufer kontaktiert.** Lokale Verfügbarkeit kann sich schnell ändern, Anzeigen bei Nutzer stets erneut ansehen.
+
+
+## 2026-11-10 – Nutzer meldet auch die neue Berliner Top-3 als ausverkauft; Händlerwechsel zu notebooksbilliger.de
+- **Nicht mehr als kaufbar empfehlen**: HP Victus 16 in Hellersdorf, GIGABYTE AORUS 15 in Prenzlauer Berg, GIGABYTE AERO 16 YE5 in Reinickendorf – alle drei laut Nutzer inzwischen ausverkauft.
+- Auftrag: **zuerst notebooksbilliger.de**, keine weiteren Kleinanzeigen als erste Quelle.
+- Live bei NBB nachgesehen: **GIGABYTE GAMING A16 3VHK3DE894SH, 1.099€ + Versand, sofort ab Lager**, Ryzen 7 260, RTX5060 **8GB VRAM**, 1TB SSD, Windows 11, **nur 16GB RAM ab Werk**, aufrüstbar durch zweiten 16GB-SO-DIMM.
+- **Teurer RAM:** konkretes NBB-Beispiel Crucial DDR5-5600 16GB **299€**, daher kompletter 32GB-Ausbau **1.398€ + Versand/Einbau**; möglicherweise andere RAM-Händler günstig(er), noch nicht systematisch geprüft.
+- **Ab Werk 32GB / 1TB / RTX5060 8GB:** GIGABYTE **AERO X16 1VH93DEC64AH** und **GAMING A18 3VHK3DEC64SH** bei NBB je **1.599€ + Versand**, online laut Detailseiten lagernd, jedoch **über dem ursprünglichen Suchkorridor**.
+- **Nicht bewiesen:** kompletter, sofort verfügbarer 32GB/RAM/RTX-Laptop um 1.000–1.200€ bei diesem Händler. Erst Preis-Leistung und Budget berücksichtigen; keine Bestellung, kein Kauf.
+- Links, Daten, Quellen, Ausschlüsse: **NOTEBOOKSBILLIGER-2026-11-10.md**. Berliner Store-Abholung nicht gesondert nachgewiesen (Online-Lager ist nicht Filialbestand).
