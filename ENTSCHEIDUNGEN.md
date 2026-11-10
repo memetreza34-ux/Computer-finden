@@ -146,3 +146,10 @@
 - **Codex/Claude Code bei Cloud-Nutzung**: lokale CLI, Editoren und Builds können auf Station laufen, aber die Modellinferenz erfolgt weiterhin auf den externen Cloud-Servern, nicht der lokalen NVIDIA GPU. ChatGPT im Browser auf Mac bleibt dort lokal als Browser, KI-Modell in Cloud.
 - **Keine Ressourcenverschmelzung**: 16GB Mac-RAM und 32/64GB Stations-RAM addieren sich nicht. Arbeitsplatz über WLAN/LAN, Station eingeschaltet. Nicht standardmäßig Routerports ins Internet freigeben; sicherer LAN-Zugriff bzw VPN und authentifiziertes SSH.
 - Station lässt sich auch mit einem zukünftigen Windows-Laptop-Konzept zunächst ausprobieren; spätere Desktop-Station nur bei wirklichem Bedarf. Nutzer hat **noch keine Station gekauft**.
+
+
+## 2026-11-10 – Selbstkritische Nachprüfung der „Top 3 neuen KI-Stationen“
+- Die genannte Liste ist **nur eine vorläufige Auswahl, KEINE belastbare Top-3-Kaufempfehlung**. Webplanet 846€ RTX3060/12GB/5700X/32GB/1TB kann interessant sein, aber technische Tippfehler und neue Einzelkomponenten / Händlerabwicklung prüfen. Captiva R76-222 ca.1018€ bietet praktisch dieselbe GPU/CPU/RAM/SSD zu höherem Preis, Shop-/Lieferdaten unsicher. HMCW 1099€ RTX5060 nur **8GB VRAM**, für größere lokale Ollama-Modelle kein Ersatz für 12/16GB.
+- Nachsuche fand Online-Preisvergleich-Listungen für RTX4060Ti-16GB/32GB/1TB unter 1100€, **aber keine direkt verifizierte aktuelle Händlerbestellseite mit korrektem Endpreis**. Ein direkt überprüftes Anlauf-Angebot Ryzen7 5700X/RTX5060Ti **8GB** kostete sogar **1249€**, obwohl Suchindex 1069€ suggerierte. Andere vermeintliche 16GB-Schnäppchen leiteten auf 404 oder Liste ohne konkrete kaufbare Ware.
+- Darum keine derartige Liste als endgültige Top 3 ausgeben. Strenge Prüfung von **echter 12/16GB CUDA-VRAM GPU, >=32GB RAM, >=512GB SSD, solider CPU, neuem komplettem PC mit Verkäufer-/Garantie-/Liefernachweis und Endpreis <=1100€**.
+- User plant **zunächst Laptop**, Desktop-KI-Station erst bei echtem Bedarf in einer späteren Phase. Keine Bestellung.
