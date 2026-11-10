@@ -100,3 +100,15 @@
 - Exaktes SKU-Datenblatt **visuell geprüft**: Ryzen9 7845HX 12C24T, NVIDIA RTX4060 **8GB** (bis140W), **32GB DDR5-4800 als 2×16 SO-DIMM, 2/2 Steckplätze belegt; offiziell max32GB**, 1TB PCIe Gen4, **2×M.2-SSD-Steckplätze (1 ab Werk belegt)**, 17.3″ FHD144Hz 250nits/62,5%sRGB, **OHNE integrierte Webcam**, 90Wh Akku, 280W-Netzteil, ca. 2,8kg, Win11 Home. RAM über32GB von Dritten angeboten, offiziell nicht garantiert.
 - **Verkäufernachricht erstellt, aber NICHT versendet.** In [ASUS-G713PV-HX058W-VERKAEUFER-PRUEFUNG.md](ASUS-G713PV-HX058W-VERKAEUFER-PRUEFUNG.md) samt vollständiger Links/Quellen/Checkliste. Angefragt werden sollen Screenshots von CPU/RAM/GPU, Batteriereport, SSD-Zustand, Kaufbeleg, Reparaturen, Mängel, Netzteil und persönlicher Kurztest.
 - Preis erst nach technischer Prüfung verhandeln (850–900€ Ziel, bis950€ bei sehr gutem Zustand als Heuristik). Kein Verkäuferkontakt, kein Kauf/Bezahlung bisher.
+
+
+## 2026-11-10 – Berlin eBay.de & Kleinanzeigen Alternativen zur ASUS-G17-Privatanzeige
+- Neue Nutzerbitte: **Günstigere oder tatsächlich bessere Laptop-Angebote bei eBay in Berlin**, nur Angebote, deren Seiten beim Abruf nicht als verkauft/beendet erscheinen; weiterhin max1100€ inkl. möglicher RAM-Aufrüstung, nur Business/Cloud-KI/lokale Ollama-Modelle/Docker/GitHub.
+- eBay 1050€ HP Victus Ryzen7 7840HS/RTX4070 8GB/32GB: https://www.ebay.de/itm/267719701003 ; stärkere GPU-Klasse, aber schwächere CPU als ASUS Ryzen9 7845HX und nur dieselbe 8GB-VRAM-Kapazität. SSD-Größe fehlt.
+- eBay 850€ HP Victus i7-13700H/RTX4060 8GB/32GB: https://www.ebay.de/itm/406624532401 ; Sofort-Kaufen beim Abruf, 7,69€ Versand oder lokale Abholung Berlin; SSD-Größe fehlt, Verkäufer hat noch keine Bewertungen.
+- Kleinanzeigen 800€ VB HP OMEN 17 Ryzen7 8845HS/RTX4060 8GB/**nur 16GB**/1TB, Berlin-Friedrichsfelde, Test/Abholung: https://www.kleinanzeigen.de/s-anzeige/hp-omen-17-gaming-laptop-ryzen-7-8845hs-rtx-4060-1-tb-ssd-/3562848677-278-3487 . 32GB RAM erst nach Beleg der Slotbelegung kostensicher berechnen.
+- **Vorsicht 1099€ HP Victus i7-14650HX/RTX4070/32GB/1TB**: nahezu identische Verkäufertexte von zwei Konten/Anzeigen, Eigenbeleg/Seriennummer/Abholung unbedingt vor jeder Empfehlung; Links und Einzelheiten in EBAY-BERLIN-2026-11-10.md.
+- ASUS ROG G713PV für **900€ Neukölln** aus Suchresultat https://www.kleinanzeigen.de/s-anzeige/asus-rog-strix-g713pv/3567016548-278-3390 ; CPU/GPU im Text ungeklärt, Direktabruf fehlgeschlagen, nicht als bestätigt kaufbar bezeichnen.
+- **Explizit beendet:** eBay HP Victus Ryzen7/RTX4060/32GB/1TB 849€ https://www.ebay.de/itm/188800320332; eBay-Seite sagt Angebot seit 22.08.2026 beendet – nicht empfehlen.
+- **Keine klare neue Gesamt-Sieger-Hardware unter 1.100€ mit besserer CPU + mehr VRAM als ASUS**, einige sind günstiger. Alle Daten/Quellen: [EBAY-BERLIN-2026-11-10.md](EBAY-BERLIN-2026-11-10.md).
+- Kein Verkäuferkontakt, Kauf oder verbindliche Verfügbarkeit bestätigt.
