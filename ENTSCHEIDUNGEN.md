@@ -121,3 +121,12 @@
 - **Nur EIN M.2-SSD-Slot und bereits belegt mit 512GB**; SSD-Ausbau erfordert Austausch. RTX5060 8GB/55W, GPU/VRAM nicht aufrüstbar. Kein Kauf.
 - Aktive Top4: ASUS Strix G17 7940HX; ASUS Strix G17 7845HX; MSI Stealth A16 AI+ 32GB; MSI Cyborg 15 B13WFKG-827.
 - Quellen: https://storage-asset.msi.com/specSheet/de/nb/Cyborg%2015%20B13WFKG-827DENN.pdf ; https://geizhals.de/msi-cyborg-15-b13wfkg-827-0017u3-827-a3687065.html
+
+
+## 2026-11-10 – Nur zuhause/stromgebunden; Desktop-PC kann erstmals berücksichtigt werden (noch offen)
+- Nutzer nennt vier Kernwerte: starke CPU, **>=32GB RAM, >=512GB SSD, NVIDIA mit >=8GB (besser 12/16GB) VRAM**, max.1100€. Batterie, Portabilität, Bildschirm spielen keine Rolle; Gerät bleibt stets zuhause am Strom. **Desktop noch nicht explizit freigegeben**; erst nachfragen, bisherige Laptop-Top4 behalten.
+- Neue Desktop-Option: Webplanet 846€ neu Ryzen7 5700X, RTX3060 **12GB**, 32GB DDR4/1TB SSD/Win11 Pro, Händler Österreich, kostenloser Versand nach Deutschland laut Versandseite, Produktseite mit Warenkorb. Details, Qualitätsprüfung/ungeklärte Lieferbarkeit in DESKTOP-ALS-KI-ALTERNATIVE-2026-11-10.md.
+- Neue Berlin-Pankow Privatangebote beim Direktabruf: 950€ VB i5-12500, RTX5060Ti **16GB**, 32GB RAM/1TB SSD; 860€ VB vermeintlich „i5-12400K“, RTX5060Ti **16GB**, 32GB/1TB. **Beide vom selben Account Jaymon**, konkrete Modelle/Belege/Unterschiede und PSU prüfen. Nicht als vorbehaltlos sicher einstufen.
+- eBay neue gewerbliche 12GB RTX3060/32GB/1TB Desktop 1.099€ bei live Detailabruf (älterer Indexpreis 999€ war veraltet). Zwei ebenfalls passende Berliner Desktopangebote 1099€/1000€ leiteten bei Direktaufruf auf Kategorie um und wurden daher als potenziell gelöscht nicht empfohlen.
+- **Technische Gewichtung:** Für größere lokale LLMs 12-16GB VRAM wertvoll; alte Desktop RTX3060 nicht pauschal schneller als RTX4060 Laptop bei kleinen Modellen, Desktop Ryzen7 5700X bzw i5-12500 schwächer als Ryzen9 7845HX in paralleler Multicore-CPU-Belastung.
+- Quelle: [DESKTOP-ALS-KI-ALTERNATIVE-2026-11-10.md](DESKTOP-ALS-KI-ALTERNATIVE-2026-11-10.md). Keine Nachrichten/Käufe.
