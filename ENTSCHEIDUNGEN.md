@@ -66,3 +66,11 @@
 - **Jetzt überprüfte konkrete Händleroption:** MSI Cyborg 15 B13WFKG-827, 949€ neu MediaMarkt, Intel i5-13420H, RTX5060 8GB (55W), 16GB DDR5 (1×16 + 1 frei, DDR5-5200), 512GB SSD, Win11 Home; **949+70=1.019€** unter Annahme kompatiblem 70€-Modul. Nachteile: i5 mittelmäßig, 55W GPU, 1 M.2-Slot, kein Thunderbolt/USB4. Nicht gekauft.
 - **Nicht als passende Alternative rechnen:** HP OMEN 15-gb0057ng 999€ FreeDOS mit **2×8GB RAM (kein freier Slot)**, daher für 32GB 2 neue Module plus Windows notwendig.
 - Quellen/Link/Detailvergleiche in **BUDGET-1100-RAM-GPU-2026-11-10.md**. Fortan **kein Modell über 1.100€ Gesamtkosten als Empfehlung** ohne explizite Änderung des Budgets.
+
+
+## 2026-11-10 – MSI Cyborg ausdrücklich ausgeschlossen; MSI Stealth bleibt im Vergleich
+- Nutzerentscheidung: **MSI Cyborg 15 B13WFKG-827 ausschließen**, weil ihm die CPU Intel Core i5-13420H für seine Business-/KI-Entwicklungsprojekte zu schwach ist und zusätzlich etwa **70€ für 16GB RAM** nötig wären. **Nicht mehr als Empfehlung zeigen**.
+- Der Nutzer betont: **MSI Stealth A16 AI+ A3HVEG-298NN** hat **bereits 32GB RAM ab Werk**, braucht also kein RAM-Upgrade. Kaufpreis im ursprünglichen Angebot 999€. Daher **als Kandidat weiter berücksichtigen**.
+- Unverändert: MSI Stealth hat RTX4050 mit **6GB dediziertem VRAM** und 512GB SSD, bei lokalen LLMs schwächer als NVIDIA-Optionen mit 8GB+ VRAM. Seine Ryzen AI 5 340 CPU besitzt 6 Kerne/12 Threads; nicht ohne Benchmarks pauschal als für alle Aufgaben deutlich stärker als i5-13420H bezeichnen.
+- Neue Suche priorisiert **gute CPU und bereits 32GB RAM ODER günstige RAM-Aufrüstung**, aber **Gesamtkosten bis 1.100€**, GPU-VRAM 8GB+ wünschenswert, Nvidia und Windows, ausschließlich Business/KI/Docker/GitHub, kein Gaming. Auch andere i5-13420H-Geräte nicht als bessere Alternative aufdrängen.
+- Noch keine Kaufentscheidung oder Bestellung.
