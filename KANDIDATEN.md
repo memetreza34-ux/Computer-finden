@@ -83,3 +83,18 @@
 7. Sichere Abholung, Gerät persönlich testen, erst dann bezahlen. Keine Überweisung/PayPal Freunde an unbekannte Privatverkäufer. Offizielle Sicherheitshinweise: https://hilfe.kleinanzeigen.de/hc/de/articles/22774175164572-Sicher-handeln-auf-Kleinanzeigen-so-erkennst-du-Betrug
 
 **Offen:** Gesamtkaufbudget, Gewicht-/Akkulaufzeit-Priorität, Zustand der zwei Privatgeräte, Abweichung SKU/Display bei ASUS 1. **Noch keine verbindliche Kaufentscheidung.**
+
+
+## Favorit 4 – MSI Cyborg 15 B13WFKG-827 (vom Nutzer am 10.11.2026 ausdrücklich aufgenommen)
+- **Status:** feste **Vergleichsposition Nr. 4**, keine Kaufentscheidung. Die ältere Ablehnung des Cyborg aufgrund der schwächeren CPU wird durch den Wunsch, ihn **trotzdem als Favorit 4 festzuhalten**, für die Shortlist ersetzt; CPU-Schwäche bleibt dokumentiert.
+- **Angebot laut Nutzer-Screenshot:** MediaMarkt, **949 € neu**, Windows 11 Home, https://www.mediamarkt.de/de/product/_msi-cyborg-15-b13wfkg-827-156-zoll-intelr-coretm-i5-i5-13420h-16-gb-512-gb-nvidia-geforce-rtxtm-5060-windows-11-home-3024530.html
+- **CPU:** Intel Core i5-13420H, 8 Kerne (4 Performance/4 Efficiency), 12 Threads.
+- **GPU:** RTX 5060 Laptop **8 GB GDDR7**, **55 W Max GPU Power** (nicht mit schnelleren RTX-5060-Varianten verwechseln); GPU und VRAM intern nicht aufrüstbar.
+- **RAM ab Werk:** **16 GB DDR5-5200 als 1×16-GB-SO-DIMM**. **Zwei Steckplätze insgesamt, einer belegt, einer frei**. **Aufrüstung auf 32 GB durch zusätzliches kompatibles 16-GB-Modul möglich**. Laut MSI maximal 96 GB RAM bei passender Konfiguration, nicht als Garantie für beliebige Module verstehen.
+- **RAM-Kostenannahme:** Angenommener zusätzlicher 16-GB-DDR5-5200-SO-DIMM vom Nutzer ca. **70 €** (noch kein verbindliches Angebot) → **949 + 70 = 1.019 €**; 81 € Budgetreserve unter max. 1.100 €.
+- **SSD:** **512 GB PCIe 4.0 NVMe; nur ein M.2-Slot, bereits belegt**. SSD auf 1/2 TB erweiterbar **durch Austausch** der eingebauten SSD, nicht durch Einbau einer zweiten. MSI rät, Servicecenter für SSD-Aufrüstung zu konsultieren.
+- **Display:** 15,6″ Full HD 144 Hz, IPS-Level; Webcam vorhanden. Windows 11 Home.
+- **Business/KI-Urteil:** Gute neue 8-GB-VRAM-Option für Docker/WSL2, Cloud-KI und kleine quantisierte Ollama-Modelle, aber CPU i5-13420H und niedriges GPU-Leistungslimit sind gegenüber den Ryzen-9-ASUS-Geräten die Schwachstellen. **Favorit 4 bedeutet vorgemerkt, nicht besser als Top 3.**
+- **Primärquelle MSI (exaktes Modell):** https://storage-asset.msi.com/specSheet/de/nb/Cyborg%2015%20B13WFKG-827DENN.pdf
+- **Hersteller-Baureihendaten:** https://www.msi.com/Laptop/Cyborg-15-B13WX/Specification
+- **Konfigurationsabgleich:** https://geizhals.de/msi-cyborg-15-b13wfkg-827-0017u3-827-a3687065.html
