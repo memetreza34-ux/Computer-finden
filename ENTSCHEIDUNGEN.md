@@ -92,3 +92,11 @@
 - **#3 Acer Nitro V17 ANV17-41-R0D6:** 1049€ + angenommene 2×70€ RAM = **1189€ plus Versand, ÜBER BUDGET**; Ryzen5 240 6C12T, RTX5050 8GB, 16GB **2×8**/512GB/Windows11; nicht kaufen.
 - **Ausverkauft:** Lenovo LOQ 3 83JG000RGE €879 auf Kategorieseite, B-Ware Acer Nitro V15 71W0, mehrere historische attraktive HP/RTX-Angebote. **Falscher Preis:** MSI Katana i7/RTX4060 stand auf Kategorie €999, Produktdetail zeigte €1299 – NICHT als Deal ausgeben.
 - Neue ausführliche Projektdokumentation: **[NBB-TOP3-2026-11-10.md](NBB-TOP3-2026-11-10.md)**. Neuere Daten haben Vorrang vor den älteren NOTEBOOKSBILLIGER-2026-11-10.md und BUDGET-1100-RAM-GPU-2026-11-10.md. **Kauf nicht vorgenommen.**
+
+
+## 2026-11-10 – ASUS ROG Strix G17 G713PV-HX058W wird aktiv überprüft
+- Nutzer hat Screenshot der **Kleinanzeigen-ID 3564575142, 1.000€ VB Berlin-Reinickendorf** gezeigt und bittet um umfassende technische Inseratsanalyse und Verkäuferanfrage (Screenshotnachweise, Rechnungs-/Akkufragen).
+- Live-Anzeige erneut gelesen, aktuell öffentlich als Angebot sichtbar; Verkäufer seit 2015 bei Plattform, Badge OK Zufriedenheit/Freundlich, behauptet fast unbenutzt und voll funktionsfähig. Keine unabhängigen Belege, Garantie, Akku-/SSD-Health, Kaufdatum oder Originalnetzteil im Inserat.
+- Exaktes SKU-Datenblatt **visuell geprüft**: Ryzen9 7845HX 12C24T, NVIDIA RTX4060 **8GB** (bis140W), **32GB DDR5-4800 als 2×16 SO-DIMM, 2/2 Steckplätze belegt; offiziell max32GB**, 1TB PCIe Gen4, **2×M.2-SSD-Steckplätze (1 ab Werk belegt)**, 17.3″ FHD144Hz 250nits/62,5%sRGB, **OHNE integrierte Webcam**, 90Wh Akku, 280W-Netzteil, ca. 2,8kg, Win11 Home. RAM über32GB von Dritten angeboten, offiziell nicht garantiert.
+- **Verkäufernachricht erstellt, aber NICHT versendet.** In [ASUS-G713PV-HX058W-VERKAEUFER-PRUEFUNG.md](ASUS-G713PV-HX058W-VERKAEUFER-PRUEFUNG.md) samt vollständiger Links/Quellen/Checkliste. Angefragt werden sollen Screenshots von CPU/RAM/GPU, Batteriereport, SSD-Zustand, Kaufbeleg, Reparaturen, Mängel, Netzteil und persönlicher Kurztest.
+- Preis erst nach technischer Prüfung verhandeln (850–900€ Ziel, bis950€ bei sehr gutem Zustand als Heuristik). Kein Verkäuferkontakt, kein Kauf/Bezahlung bisher.
