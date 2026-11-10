@@ -83,3 +83,12 @@
 - Gegenüber MSI Cyborg 15 B13WFKG-827 949€ (RTX5060 8GB/55W, Win11, 1×16GB plus freier SO-DIMM): 150€ billiger im Basispreis, aber schwächere GPU und ungünstigere Aufrüstung, CPU derselbe **i5-13420H**.
 - **Nutzer hat i5-13420H bereits abgelehnt**, deshalb auch dieses 799€-Gerät **AUSSCHLIESSEN**. MSI Stealth A16 AI+ mit 32GB ab Werk bleibt Vergleichskandidat.
 - Verifizierbar bei Händler: https://www.notebooksbilliger.de/msi%2Bcyborg%2B15%2Ba13ve%2B1005%2B872581 ; MSI Datenblatt: https://storage-asset.msi.com/excelSku/de/nb/Cyborg%2015%20A13VE-1005.pdf .
+
+
+## 2026-11-10 – NBB-Katalog gründlich geprüft: keine drei voll budgetkonformen Konkurrenzmodelle
+- Nutzervorgabe wiederholt: Nur **notebooksbilliger.de** vergleichen, **Top 3 gegenüber den ursprünglichen ASUS Strix und MSI Stealth**. Fix **1.100€ GESAMT inkl. RAM-Aufrüstung**, Gaming irrelevant, CPU besonders wichtig. Bei den neuen Angeboten tatsächlich detaillierte Produktseiten und Speicherkonfigurationen geprüft.
+- **#1 ASUS TUF A16 FA607NUQ-RL038W:** 949€ + angenommene 2×70€ RAM = 1089€ **plus Versand**; Ryzen7 170 8C16T, RTX4050 6GB, 16GB **2×8**/512GB/Windows11. Sehr knappe Chance im Budget; gegenüber altem MSI Stealth (999€ 32GB/RTX4050 6GB) kein eindeutiger Vorteil. 6GB-VRAM für Ollama limitierend.
+- **#2 Gigabyte GAMING A16 3VHK3DE894SH:** 1099€ + ein angenommener 70€-Riegel = **1169€ plus Versand, ÜBER BUDGET**; Ryzen7 260 8C16T, RTX5060 8GB/75W, 16GB **1×16 freier Slot**/1TB/Windows11. Technisch beste bei NBB neue Alternative, aber nicht kaufen ohne Preisnachlass (Laptop max. 1030€ abzüglich Versand bei ~70€ RAM).
+- **#3 Acer Nitro V17 ANV17-41-R0D6:** 1049€ + angenommene 2×70€ RAM = **1189€ plus Versand, ÜBER BUDGET**; Ryzen5 240 6C12T, RTX5050 8GB, 16GB **2×8**/512GB/Windows11; nicht kaufen.
+- **Ausverkauft:** Lenovo LOQ 3 83JG000RGE €879 auf Kategorieseite, B-Ware Acer Nitro V15 71W0, mehrere historische attraktive HP/RTX-Angebote. **Falscher Preis:** MSI Katana i7/RTX4060 stand auf Kategorie €999, Produktdetail zeigte €1299 – NICHT als Deal ausgeben.
+- Neue ausführliche Projektdokumentation: **[NBB-TOP3-2026-11-10.md](NBB-TOP3-2026-11-10.md)**. Neuere Daten haben Vorrang vor den älteren NOTEBOOKSBILLIGER-2026-11-10.md und BUDGET-1100-RAM-GPU-2026-11-10.md. **Kauf nicht vorgenommen.**
