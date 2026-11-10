@@ -112,3 +112,12 @@
 - **Explizit beendet:** eBay HP Victus Ryzen7/RTX4060/32GB/1TB 849€ https://www.ebay.de/itm/188800320332; eBay-Seite sagt Angebot seit 22.08.2026 beendet – nicht empfehlen.
 - **Keine klare neue Gesamt-Sieger-Hardware unter 1.100€ mit besserer CPU + mehr VRAM als ASUS**, einige sind günstiger. Alle Daten/Quellen: [EBAY-BERLIN-2026-11-10.md](EBAY-BERLIN-2026-11-10.md).
 - Kein Verkäuferkontakt, Kauf oder verbindliche Verfügbarkeit bestätigt.
+
+
+## 2026-11-10 – MSI Cyborg B13WFKG-827 ausdrücklich als Favorit 4 aufgenommen
+- Nutzer sendet MediaMarkt-Screenshot zum **MSI Cyborg 15 B13WFKG-827** (949€ neu, Core i5-13420H, RTX5060, 16GB RAM/512GB SSD, Win11) und will **ihn trotz vorheriger CPU-Bedenken als Nummer 4 festhalten**. Die alte „komplett ausschließen“-Notiz ist damit **überholt**; trotzdem als Schwäche bei der Bewertung berücksichtigen.
+- Nach exaktem MSI-Datenblatt: **2× DDR5-5200 SO-DIMM RAM-Slots, ab Werk 1×16GB belegt, 1 SLOT FREI**; Nachrüstung durch 1×16GB möglich, 32GB gesamt. Hersteller maximal **96GB** RAM, kompatible Module sorgfältig prüfen.
+- Kalkulation: **949€ + hypothetische 70€ für zusätzliches Modul = 1019€**; unter 1100€ Budget, Modulangebot/Kompatibilität noch nicht real überprüft.
+- **Nur EIN M.2-SSD-Slot und bereits belegt mit 512GB**; SSD-Ausbau erfordert Austausch. RTX5060 8GB/55W, GPU/VRAM nicht aufrüstbar. Kein Kauf.
+- Aktive Top4: ASUS Strix G17 7940HX; ASUS Strix G17 7845HX; MSI Stealth A16 AI+ 32GB; MSI Cyborg 15 B13WFKG-827.
+- Quellen: https://storage-asset.msi.com/specSheet/de/nb/Cyborg%2015%20B13WFKG-827DENN.pdf ; https://geizhals.de/msi-cyborg-15-b13wfkg-827-0017u3-827-a3687065.html
