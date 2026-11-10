@@ -74,3 +74,12 @@
 - Unverändert: MSI Stealth hat RTX4050 mit **6GB dediziertem VRAM** und 512GB SSD, bei lokalen LLMs schwächer als NVIDIA-Optionen mit 8GB+ VRAM. Seine Ryzen AI 5 340 CPU besitzt 6 Kerne/12 Threads; nicht ohne Benchmarks pauschal als für alle Aufgaben deutlich stärker als i5-13420H bezeichnen.
 - Neue Suche priorisiert **gute CPU und bereits 32GB RAM ODER günstige RAM-Aufrüstung**, aber **Gesamtkosten bis 1.100€**, GPU-VRAM 8GB+ wünschenswert, Nvidia und Windows, ausschließlich Business/KI/Docker/GitHub, kein Gaming. Auch andere i5-13420H-Geräte nicht als bessere Alternative aufdrängen.
 - Noch keine Kaufentscheidung oder Bestellung.
+
+
+## 2026-11-10 – 799€ NBB-MSI-Cyborg-Screenshot geprüft; ausgeschlossen
+- Nutzer fand MSI **Cyborg 15 A13VE-1005** bei notebooksbilliger.de für **799€ neu** (Screenshot vom 10.11.2026): https://www.notebooksbilliger.de/msi+cyborg+15+a13ve+1005+872581 . Preis in Händlerdetailseite beim Abruf bestätigt.
+- Exakte technische Daten: Intel **Core i5-13420H (8C/12T)**, **RTX4050 Laptop 6GB VRAM nur 45W Max Graphics Power**, **16GB DDR5-5200 als 2×8GB (beide RAM-Slots belegt!)**, **512GB SSD**, **FreeDOS** ohne Windows.
+- **WICHTIG RAM:** Nicht für 70€ durch einen zusätzlichen 16GB-Riegel auf 32GB aufrüstbar, denn **0 Slots frei**. Erforderlich: vorhandene 2×8GB ersetzen durch 2×16GB; Kosten extra, ggf. Windows-Lizenz/Installation erforderlich. Das ist schlechter als das anfänglich angenommene simple RAM-Upgrade.
+- Gegenüber MSI Cyborg 15 B13WFKG-827 949€ (RTX5060 8GB/55W, Win11, 1×16GB plus freier SO-DIMM): 150€ billiger im Basispreis, aber schwächere GPU und ungünstigere Aufrüstung, CPU derselbe **i5-13420H**.
+- **Nutzer hat i5-13420H bereits abgelehnt**, deshalb auch dieses 799€-Gerät **AUSSCHLIESSEN**. MSI Stealth A16 AI+ mit 32GB ab Werk bleibt Vergleichskandidat.
+- Verifizierbar bei Händler: https://www.notebooksbilliger.de/msi%2Bcyborg%2B15%2Ba13ve%2B1005%2B872581 ; MSI Datenblatt: https://storage-asset.msi.com/excelSku/de/nb/Cyborg%2015%20A13VE-1005.pdf .
