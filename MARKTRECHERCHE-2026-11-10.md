@@ -1,3 +1,7 @@
+> **ARCHIV / NICHT AKTUELLE SHORTLIST (Stand Nutzerhinweis 10.11.2026):** Alle drei hier zuvor präsentierten Kandidaten – Schenker KEY 15, Lenovo ThinkPad P16 Gen1 und XMG Neo 15 M21 – wurden vom Nutzer als **gelöscht/unverfügbar** gemeldet. **NICHT erneut als kaufbar empfehlen**, auch wenn Suchergebnisse veraltet noch eine Detailseite zeigen. **Bevorzugter Standort Berlin; ausschließlich Business/KI, kein Gaming.** Die neue Berliner Shortlist mit geprüften direkten Anzeigenlinks ist [BERLIN-ANGEBOTE-2026-11-10.md](BERLIN-ANGEBOTE-2026-11-10.md).
+
+---
+
 # Erweiterte Marktanalyse – Business, Cloud-KI und lokale KI (10.11.2026)
 
 ## Verbindliche Korrektur des Suchprofils
