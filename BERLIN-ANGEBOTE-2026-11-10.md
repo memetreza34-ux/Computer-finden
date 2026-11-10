@@ -1,3 +1,7 @@
+> **ARCHIV / NUTZER-MELDUNG 10.11.2026:** Der Nutzer berichtet, dass **auch alle drei hier zuletzt empfohlenen Berliner Kleinanzeigen** (HP Victus 16 Hellersdorf, Gigabyte AORUS 15 Prenzlauer Berg, Gigabyte AERO 16 Reinickendorf) **ausverkauft** sind. **NICHT erneut als kaufbar empfehlen**, auch wenn Suchindizes noch alte Inserate anzeigen. Der Nutzer möchte jetzt **zuerst notebooksbilliger.de** prüfen. Neuester Marktstand: [NOTEBOOKSBILLIGER-2026-11-10.md](NOTEBOOKSBILLIGER-2026-11-10.md). Diese Datei nur noch als historische Referenz lesen.
+
+---
+
 # Berlin – aktualisierte Laptop-Angebote (10.11.2026)
 
 **Status:** Neue Recherche nach Nutzerhinweis: die drei zuletzt empfohlenen Angebote sind laut Nutzer **gelöscht**. Vorrang: Berlin, persönliche Besichtigung/Abholung, 32+ GB RAM, 512GB+ SSD, Windows, starke CPU, Nvidia GPU für Ollama/WSL2. **Nur Business, kein Gaming.** Preise und Sichtbarkeit nur Momentaufnahme. Verkäufer-Verfügbarkeit und Gerätedaten NICHT durch Kontakt oder Vor-Ort-Test bestätigt.
