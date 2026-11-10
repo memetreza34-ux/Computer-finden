@@ -60,3 +60,10 @@ Wichtig:
 - Docker GPU-Passthrough mit NVIDIA unter WSL2: https://docs.docker.com/desktop/features/gpu/
 - Docker Desktop + WSL2: https://docs.docker.com/desktop/features/wsl
 - Docker Desktop Windows-Anforderungen: https://docs.docker.com/desktop/setup/install/windows-install/
+
+
+## Ergänzung 10.11.2026 – ausschließliche Arbeit und Berliner Abholung
+- **Definitive Zweckklärung:** **ausschließlich Business/Produktivität, KI-gestützte Softwareentwicklung, Ollama und Docker, NICHT Gaming**. Gaming-Leistung/FPS und RGB sind keine Kaufkriterien; Geräte aus Gaming-Baureihen werden nur wegen ihrer für CUDA nutzbaren Hardware verglichen.
+- **Geografie:** **Berlin bevorzugt**, idealerweise persönlich prüfbar bei Abholung. Außerhalb Berlins nur bei besonders gutem, begründetem Vorteil und nach ausdrücklicher Erwägung.
+- **Angebotsstatus:** drei erste zusätzliche Empfehlungen (Schenker KEY 15 Karlsruhe, ThinkPad P16 Halle, XMG Neo Neukölln) laut Nutzer gelöscht. Veraltete Suchtreffer nicht als aktuelle Verfügbarkeit werten.
+- Budget aus bisherigen Beispielen ungefähr 1.000 €; **keine verbindliche Obergrenze**. Die Berliner Auswahl vom 10.11.2026 enthält zwei Angebote für 850–869 € und eine 16GB-VRAM-Option für 1.299 € VB oberhalb des bisherigen Suchfensters. Siehe BERLIN-ANGEBOTE-2026-11-10.md.
