@@ -67,3 +67,13 @@ Wichtig:
 - **Geografie:** **Berlin bevorzugt**, idealerweise persönlich prüfbar bei Abholung. Außerhalb Berlins nur bei besonders gutem, begründetem Vorteil und nach ausdrücklicher Erwägung.
 - **Angebotsstatus:** drei erste zusätzliche Empfehlungen (Schenker KEY 15 Karlsruhe, ThinkPad P16 Halle, XMG Neo Neukölln) laut Nutzer gelöscht. Veraltete Suchtreffer nicht als aktuelle Verfügbarkeit werten.
 - Budget aus bisherigen Beispielen ungefähr 1.000 €; **keine verbindliche Obergrenze**. Die Berliner Auswahl vom 10.11.2026 enthält zwei Angebote für 850–869 € und eine 16GB-VRAM-Option für 1.299 € VB oberhalb des bisherigen Suchfensters. Siehe BERLIN-ANGEBOTE-2026-11-10.md.
+
+
+## Finale Preis-/Aufrüstungspräzisierung 10.11.2026
+- **Feste Obergrenze: 1.100 € Gesamtpreis**, inklusive Versand und geplantem RAM-Upgrade; Angebote für 1.200 € oder 1.599 € NICHT mehr als budgetkonform empfehlen.
+- **16 GB ab Werk akzeptabel**, wenn sicher **auf 32 GB ausbaubar**, vorzugsweise **1×16 GB mit freiem SO-DIMM**; selbst eingebautes kompatibles 16GB-Modul zu angestrebten 70€ über eBay möglich, Preis nicht garantiert.
+- **Keine unaufgerüsteten 16GB-Laptops als fertige Lösung ausgeben**; exakte Modul- und Steckplatzbelegung prüfen. DDR5 SO-DIMM vs DDR4/LPDDR/desktop DIMM unterscheiden.
+- **NVIDIA-GPU und dedizierter GPU-VRAM nicht intern aufrüstbar**; angemessene GPU und 8GB+ VRAM direkt kaufen, spätere eGPU nicht wirtschaftlich voraussetzen.
+- Business/Cloud- und lokale KI, kein Gaming. Für Ollama 8GB VRAM ist Einstieg, mehr bleibt Wunsch; 55W RTX5060 nicht automatisch schneller als 140W RTX4060.
+- Suchziel **Laptoppreis max 1.030 €**, falls kompatibler RAM wirklich 70€ kostet; Versand und eventuelle weitere Kosten berücksichtigen.
+- Geprüftes aktuelles Händlerbeispiel: MSI Cyborg 15 B13WFKG-827 949€ neu + 70€ angenommenes RAM = 1.019€. Dokumentiert in BUDGET-1100-RAM-GPU-2026-11-10.md.
