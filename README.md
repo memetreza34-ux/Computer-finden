@@ -1,6 +1,6 @@
 # Windows-Laptop als Ergänzung zum MacBook – Kaufentscheidung
 
-**Status:** Berliner Angebote erneut recherchiert, gelöschte Anzeigen archiviert, neue Top 3 in BERLIN-ANGEBOTE-2026-11-10.md; **keine Kaufentscheidung**. **Stand:** 10.11.2026.  
+**Status:** Nutzer meldet sämtliche zuletzt empfohlenen Berliner Kleinanzeigen als ausverkauft; neue Händlerrecherche **notebooksbilliger.de** dokumentiert; **keine Kaufentscheidung**. **Stand:** 10.11.2026.  
 **Ziel:** Einen Windows-Laptop mit guter Preis-Leistung finden, der den bestehenden Mac ergänzt, insbesondere bei paralleler Entwicklungsarbeit und **lokaler KI**. Es soll kein Kauf ausgelöst werden.
 
 > **Hinweis für neue Chats:** Dieses Repository ist die zentrale, fortlaufende Projektakte. Zuerst README.md, ANFORDERUNGEN.md, VERGLEICH.md und KANDIDATEN.md lesen. Bestehende Entscheidungen nutzen; keine bereits beantworteten Fragen wiederholen. Neue Modelle, Preise, Tests und Beschlüsse hier dokumentieren. Nicht belegte Daten als „unbekannt“ markieren.
@@ -52,6 +52,7 @@
 - [VERGLEICH.md](VERGLEICH.md) – Bewertungssystem, **vorläufiges Ranking**, Verhandlungsheuristiken und Quellen.
 - [KANDIDATEN.md](KANDIDATEN.md) – **alle drei konkreten Angebote**, Daten, Quellen, Preise, wichtige Unstimmigkeiten und Besichtigung-Checkliste.
 - [ENTSCHEIDUNGEN.md](ENTSCHEIDUNGEN.md) – Verlauf, offene Punkte und Beschlüsse.
+- [NOTEBOOKSBILLIGER-2026-11-10.md](NOTEBOOKSBILLIGER-2026-11-10.md) – **NEUSTER STAND**, konkrete NBB-Angebote/Verfügbarkeit, 32-GB-RAM-Gesamtkosten und Shop-Links.
 - [MARKTRECHERCHE-2026-11-10.md](MARKTRECHERCHE-2026-11-10.md) – historische erweiterte Marktanalyse (**drei dort vorgeschlagene Angebote inzwischen vom Nutzer als gelöscht gemeldet**).
 - [BERLIN-ANGEBOTE-2026-11-10.md](BERLIN-ANGEBOTE-2026-11-10.md) – **NEUE aktive Berliner Shortlist**, Preise, Verkäufer-Risiken und direkte geprüfte Anzeigenlinks.
 
@@ -67,3 +68,7 @@
 
 ## NEUSTER STATUS vom 10.11.2026 – Berliner Neusuche
 **Diese Information hat Vorrang vor der älteren Empfehlung:** Der Nutzer berichtet, dass die zuvor empfohlenen Schenker KEY 15, Lenovo ThinkPad P16 Gen1 und XMG Neo 15 M21 **gelöscht** sind und möchte **möglichst Berlin** (Abholung). Gefunden wurden drei beim Abruf sichtbare Berliner Angebote: **HP Victus 16 Ryzen 7 7840HS/RTX4060 8GB/32GB/1TB in Hellersdorf für 850 € fest**, **Gigabyte AORUS 15 i7-13620H/RTX4060 8GB/32GB/2TB in Prenzlauer Berg für 869 € VB**, **Gigabyte AERO 16 i9-12900H/RTX3080Ti 16GB/32GB/2TB in Reinickendorf für 1.299 € VB** (**nur mit Verhandlung**). Details/Links und mehrere wegen Risiken ausgeschlossene Anzeigen in BERLIN-ANGEBOTE-2026-11-10.md. Keine Live-Verfügbarkeit garantiert, keine Verkäufer kontaktiert.
+
+
+## AKTUELLSTER STATUS vom 10.11.2026 – notebooksbilliger.de
+Der Nutzer meldet **auch die letzte Berliner Shortlist (HP Victus 16, GIGABYTE AORUS 15, GIGABYTE AERO 16 der Privatangebote)** als bereits verkauft. Nicht erneut empfehlen. Jetzt vorerst **notebooksbilliger.de** statt Kleinanzeigen priorisieren. Dort gefunden: GIGABYTE GAMING A16 3VHK3DE894SH, Ryzen 7 260/RTX5060 8GB/16GB RAM/1TB für **1.099€ neu, sofort ab Lager**. **Wichtig: nur 16GB RAM ab Werk, damit nicht auftragskonform.** NBB Crucial DDR5-5600 16GB SO-DIMM **299€** → zusammen 1.398€ + Versand/Einbau. Ab Werk 32GB: GIGABYTE AERO X16 RTX5060 8GB/32GB/1TB **1.599€**, GIGABYTE A18 RTX5060 8GB/32GB/1TB **1.599€**, beide online sofort lagernd. Rund 1.000–1.200€ konnte kein ausreichend starker **sofort verfügbarer 32GB/RTX-Laptop** bei NBB nachgewiesen werden. **Keine Kaufempfehlung über Preisziel ohne Nutzerzustimmung, keine Bestellung.** Details: NOTEBOOKSBILLIGER-2026-11-10.md.
