@@ -1,6 +1,6 @@
 # Windows-Laptop als Ergänzung zum MacBook – Kaufentscheidung
 
-**Status:** Drei Favoriten erfasst, technische Spezifikationen und Preisumfeld geprüft; **keine Kaufentscheidung**. **Stand:** 10.11.2026.  
+**Status:** Berliner Angebote erneut recherchiert, gelöschte Anzeigen archiviert, neue Top 3 in BERLIN-ANGEBOTE-2026-11-10.md; **keine Kaufentscheidung**. **Stand:** 10.11.2026.  
 **Ziel:** Einen Windows-Laptop mit guter Preis-Leistung finden, der den bestehenden Mac ergänzt, insbesondere bei paralleler Entwicklungsarbeit und **lokaler KI**. Es soll kein Kauf ausgelöst werden.
 
 > **Hinweis für neue Chats:** Dieses Repository ist die zentrale, fortlaufende Projektakte. Zuerst README.md, ANFORDERUNGEN.md, VERGLEICH.md und KANDIDATEN.md lesen. Bestehende Entscheidungen nutzen; keine bereits beantworteten Fragen wiederholen. Neue Modelle, Preise, Tests und Beschlüsse hier dokumentieren. Nicht belegte Daten als „unbekannt“ markieren.
@@ -9,7 +9,7 @@
 
 - **Bestehender Computer:** Apple MacBook mit **M4-Chip, 16 GB Unified Memory und 256 GB SSD**.
 - **Gesuchtes Gerät:** zusätzlicher **Windows-Laptop** (kein notwendiger Ersatz für den Mac).
-- **Nutzung:** eigene digitale Projekte und Online-Business-Workflows; Entwicklung und Automatisierung.
+- **Nutzung: ausschließlich Business/KI/Entwicklung, KEIN Gaming.** Eigene digitale Projekte und Online-Business-Workflows; Entwicklung und Automatisierung.
 - **Zwei Nutzungsschwerpunkte:**
   1. **Cloud-gestützte KI-Entwicklung:** z. B. Claude Code, Codex, Antigravity und andere Anwendungen, deren wesentliche Modellberechnung über entfernte Server läuft. Lokal wichtig: schnelle CPU, ausreichender Arbeitsspeicher, SSD, Entwicklungsumgebung, Multitasking, stabile Verbindung.
   2. **Lokale KI und Open Source:** Ollama, lokale LLMs, Docker/WSL2, GitHub-Projekte, lokale Dienste und Entwicklungs-Stacks. Hier sind **GPU und insbesondere dedizierter Videospeicher (VRAM)** oft entscheidender als ein sehr teurer CPU- oder NPU-Aufpreis.
@@ -52,6 +52,8 @@
 - [VERGLEICH.md](VERGLEICH.md) – Bewertungssystem, **vorläufiges Ranking**, Verhandlungsheuristiken und Quellen.
 - [KANDIDATEN.md](KANDIDATEN.md) – **alle drei konkreten Angebote**, Daten, Quellen, Preise, wichtige Unstimmigkeiten und Besichtigung-Checkliste.
 - [ENTSCHEIDUNGEN.md](ENTSCHEIDUNGEN.md) – Verlauf, offene Punkte und Beschlüsse.
+- [MARKTRECHERCHE-2026-11-10.md](MARKTRECHERCHE-2026-11-10.md) – historische erweiterte Marktanalyse (**drei dort vorgeschlagene Angebote inzwischen vom Nutzer als gelöscht gemeldet**).
+- [BERLIN-ANGEBOTE-2026-11-10.md](BERLIN-ANGEBOTE-2026-11-10.md) – **NEUE aktive Berliner Shortlist**, Preise, Verkäufer-Risiken und direkte geprüfte Anzeigenlinks.
 
 ## Relevante offizielle Quellen (Stand der Erstaufnahme)
 
@@ -61,3 +63,7 @@
 - Docker Desktop Installation/Anforderungen: https://docs.docker.com/desktop/setup/install/windows-install/
 
 **Aktueller Stand und nächster Schritt:** Nutzer hat drei Favoriten gezeigt: ASUS ROG Strix G17 G713PV-LL145W (1.100 € VB privat), ASUS G713PV-HX058W (1.000 € VB privat), MSI Stealth A16 AI+ A3HVEG-298NN (999 € neu). **ASUS 1 ist bedingt führend**, bietet 16-Kern-CPU und laut SKU WQHD 240 Hz; aber die Anzeige behauptet abweichend FHD 144 Hz. **Vor Kauf exakt Modellnummer und Bildschirm verifizieren, Akkuzustand/SSD/Dauerlast prüfen und Preis verhandeln**. Vergleich und Prüfplan stehen in KANDIDATEN.md, VERGLEICH.md und ENTSCHEIDUNGEN.md. Budget notieren, sobald bekannt. Noch kein Kauf und kein Verkäuferkontakt.
+
+
+## NEUSTER STATUS vom 10.11.2026 – Berliner Neusuche
+**Diese Information hat Vorrang vor der älteren Empfehlung:** Der Nutzer berichtet, dass die zuvor empfohlenen Schenker KEY 15, Lenovo ThinkPad P16 Gen1 und XMG Neo 15 M21 **gelöscht** sind und möchte **möglichst Berlin** (Abholung). Gefunden wurden drei beim Abruf sichtbare Berliner Angebote: **HP Victus 16 Ryzen 7 7840HS/RTX4060 8GB/32GB/1TB in Hellersdorf für 850 € fest**, **Gigabyte AORUS 15 i7-13620H/RTX4060 8GB/32GB/2TB in Prenzlauer Berg für 869 € VB**, **Gigabyte AERO 16 i9-12900H/RTX3080Ti 16GB/32GB/2TB in Reinickendorf für 1.299 € VB** (**nur mit Verhandlung**). Details/Links und mehrere wegen Risiken ausgeschlossene Anzeigen in BERLIN-ANGEBOTE-2026-11-10.md. Keine Live-Verfügbarkeit garantiert, keine Verkäufer kontaktiert.
