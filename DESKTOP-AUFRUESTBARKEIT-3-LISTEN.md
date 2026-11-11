@@ -1,4 +1,37 @@
-# Desktop-PC: Aufrüstbarkeit und Erweiterbarkeit – drei Listen
+# Aktuelle Kaufregeln – VERBINDLICH ab 11.11.2026
+
+**Dieses Kapitel hat bei Widersprüchen Vorrang vor den älteren, strengeren Regeln weiter unten (Archiv).**
+
+## Budget, Angebotstyp und Kaufweg
+- **Max. 1.200 € Gesamtpreis**, inkl. Versand sowie eventuell zwingender RAM-, SSD- oder Windows-Kosten.
+- **A-Ware und geprüfte B-Ware von gewerblichen Händlern** zulässig (keine ungeprüften Privatangebote, nicht automatisch Marketplace-Drittverkäufer).
+- **Online nach Hause bestellen**, bevorzugt von Händlern mit realer Filiale in Berlin; für genau diese Onlinebestellung vor Ort geltende Rückgabe-/Reklamationsmodalitäten prüfen. Eine Berliner Filiale allein garantiert keine Abgabe.
+- **Nur aktuell über die konkrete Artikelseite bestätigte Angebote** als lieferbar nennen; ältere Suchpreise, ausverkaufte/verschwundene Einzelstücke nicht empfehlen.
+
+## Hardware: Mindestanforderungen vs. Wünsche
+| Priorität | Kriterium | Kaufregel |
+|---|---|---|
+| **Pflicht** | Solide CPU, passender CPU-Sockel und brauchbare Gesamtplattform | Für parallele lokale Coding-Tools, Builds, Docker und Tests; kein offensichtlicher Fehlkauf bei nicht ohne Komplettwechsel aufrüstbaren Eigenschaften. AM5 bevorzugt, **AM4 nicht pauschal ausgeschlossen**. |
+| **Pflicht** | **Mindestens 32 GB RAM tatsächlich nutzbar** | Beim Kauf oder mit im Gesamtbudget einkalkulierter Erweiterung. |
+| **Pflicht** | **NVIDIA-GPU mit mindestens 8 GB dediziertem VRAM** | Für CUDA/Ollama; die komplette GPU lässt sich später gegen eine gebrauchte Karte mit 12/16 GB austauschen. |
+| **Pflicht** | Zuverlässige Komponenten und Betriebsfähigkeit | Insbesondere nachvollziehbares Netzteil/ausreichende Kühlung; unbekanntes Modell vor Kauf prüfen, kein ungeprüfter pauschaler Ausschluss allein wegen Label. |
+| **Pflicht** | Ausreichender nutzbarer Systemdatenträger | Interne System-SSD mit Betriebssystem/Installationsmöglichkeit; vorhandene externe SSD ersetzt keine zwingend benötigte Boot-/Systeminstallation, kann aber Zusatzspeicher liefern. |
+| **Wunsch** | 4 RAM-Slots, 2 frei | Schön, **nicht mehr Pflicht**. Board mit nur 2 Slots oder voller Belegung akzeptabel, solange 32 GB vorhanden und späterer Austausch prinzipiell möglich ist. |
+| **Wunsch** | Zweiter M.2-SSD-Slot | **Nicht mehr Pflicht**. Nutzer hat bereits eine Samsung-SSD mit 1 TB. Falls externe USB-SSD, wird dafür kein freier M.2-Steckplatz gebraucht. **Anschlusstyp bisher nicht bestätigt**; interne SSD benötigt kompatiblen internen Anschluss oder ein Gehäuse/Adapter. |
+| **Wunsch** | B550/B650/B850, besonders AM5 | Mainboardqualität und konkretes Modell höher gewichten als bloße Chipsatzbezeichnung; A520 nicht pauschal ausschließen, aber dessen Grenzen dokumentieren. |
+| **Wunsch** | Hochwertiges Netzteil mit Upgrade-Reserve | Bevorzugt bekannten Hersteller/Modell, genügend Watt/Anschlüsse für späteren GPU-Tausch; ggf. Netzteilwechsel als zukünftige Kosten berücksichtigen. |
+
+## Drei Listen – Anwendung für jedes Angebot
+1. **Liste 1: Nicht einzeln nachrüstbare Eigenschaften (besonders wichtig).** GPU-VRAM, CPU-Kernzahl, CPU-Sockel/Chipsatz und Grundplattform: technische Einschränkungen **transparent prüfen**, keine unrealistischen Upgrade-Versprechen. Nicht jedes Teil muss High-End sein; verlässliche und zur Nutzung passende Basis ist Pflicht.
+2. **Liste 2: Erweiterung ohne Ausbau (Pluspunkte, keine Ausschlussliste).** Vier RAM-Slots, zwei freie Plätze, zweiter M.2, freie SATA/PCIe/USB: **wünschenswert, aber optional**. 32 GB RAM ab Kauf sind wichtiger als freie DIMM-Steckplätze. Falls später für 64 GB Module ersetzt werden müssen, **möglich und akzeptiert**. Reale Belegung nachweisen oder als unbekannt markieren.
+3. **Liste 3: Austauschbarkeit (wichtig für späteres eBay-Upgrade).** GPU, CPU innerhalb Sockel/BIOS, RAM, SSD, Netzteil, Mainboard, Kühler und Gehäuse: prüfen, ob handelsübliche Standardkomponenten passen und woran ein Wechsel scheitern könnte. Budget für ein späteres Upgrade erst auslösen, wenn Bedarf erkennbar.
+
+## Bewertung bei knappen Budgets
+**Sofort nutzbarer PC und Preis-Leistung gehen vor maximaler Anzahl freier Steckplätze.** Fehlende M.2-/RAM-Slots **nicht** als automatischen Ausschluss werten. Risiken und zusätzliche Upgrade-Kosten deutlich benennen. Kein Gerät kaufen/kontaktieren ohne ausdrücklichen Auftrag.
+
+---
+
+# Archiv: Ursprüngliche, strengere Drei-Listen-Prüfung (historischer Stand)
 
 **Stand:** 11.11.2026  
 **Projekt:** Computer-finden  
